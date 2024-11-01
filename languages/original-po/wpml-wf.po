@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPML Widget Filter 0.1.0\n"
+"POT-Creation-Date: 2014-07-28 06:46-0800\n"
+"PO-Revision-Date: 2014-07-28 06:46-0800\n"
+"Last-Translator: Mucunguzi Brooks <mcngzbrooks@gmail.com>\n"
+"Language-Team:  <translation@zanto.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wp3.9.2\\wp-content\\plugins\\wpml-"
+"widget-filter\n"
+
+#: wpml_widget_filter.php:17
+msgid "when plugin starts (default)"
+msgstr ""
+
+#: wpml_widget_filter.php:18
+msgid "after theme loads"
+msgstr ""
+
+#: wpml_widget_filter.php:19
+msgid "when all PHP loaded"
+msgstr ""
+
+#: wpml_widget_filter.php:20
+msgid "during page header"
+msgstr ""
+
+#: wpml_widget_filter.php:48
+#, php-format
+msgid ""
+"WPML Widget Filter is enabled but not effective. It requires <a href=\"%s"
+"\">WPML</a> in order to work."
+msgstr ""
+
+#: wpml_widget_filter.php:129
+msgid "WPML Widget Filter (Sidebars)"
+msgstr ""
+
+#: wpml_widget_filter.php:133
+msgid "Name"
+msgstr ""
+
+#: wpml_widget_filter.php:133
+msgid "Description"
+msgstr ""
+
+#: wpml_widget_filter.php:133
+msgid "Display"
+msgstr ""
+
+#: wpml_widget_filter.php:167
+msgid ""
+"Delays WPML Widget Filter code being evaluated til various points in the WP "
+"loading process"
+msgstr ""
+
+#: wpml_widget_filter.php:167
+msgid "Implement Filters"
+msgstr ""
+
+#: wpml_widget_filter.php:180
+msgid "Save WPML-WF options"
+msgstr ""
+
+#: wpml_widget_filter.php:238
+msgid "support"
+msgstr ""
+
+#: wpml_widget_filter.php:279
+#: wpml_widget_filter.php:297
+msgid "WPML Widget Filter Settings"
+msgstr ""
+
+#: wpml_widget_filter.php:279
+msgid "WPML Widget Filter"
+msgstr ""
+
+#: wpml_widget_filter.php:299
+msgid "Save all WPML-WF options to a plain text config file"
+msgstr ""
+
+#: wpml_widget_filter.php:299
+msgid "Export options"
+msgstr ""
+
+#: wpml_widget_filter.php:300
+msgid "Import options"
+msgstr ""
+
+#: wpml_widget_filter.php:300
+msgid "Load all WPML Widget Filter options from a plain text config file"
+msgstr ""
+
+#: wpml_widget_filter.php:301
+msgid "Select file for importing"
+msgstr ""
+
+#: wpml_widget_filter.php:303
+msgid "Get more free and premium WordPress mulitilingual plugins like this one"
+msgstr ""
+
+#: wpml_widget_filter.php:332
+msgid "Success! Options file imported"
+msgstr ""
+
+#: wpml_widget_filter.php:334
+msgid "Invalid options file"
+msgstr ""
+
+#: wpml_widget_filter.php:338
+msgid "No options file provided"
+msgstr ""
